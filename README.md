@@ -12,10 +12,11 @@ D : Right
 R : Restart when hit self or walls
 
 Game while running With variations of map size:
-https://github.com/MaskedOmega/Snake_Pygame/blob/main/GameRuntime%20100x100%20map.png
-![Alt text](GameRuntime 100x100 map.png)
+![Alt text](GameR10x10map.png)
+![Alt text](GameR100x100map.png)
+![Alt text](GameR25x10map.png)
+![Alt text](GameR25x25map.png)
 
 Game End Screen:
-
-![Alt text](GameEnd.png)
+![Alt text](GameERS.png)
 
