@@ -17,6 +17,7 @@ Game while running With variations of map size:
 ![Alt text](GameR25x10map.png)
 ![Alt text](GameR25x25map.png)
 
-Game End Screen:
+Game End Screen:                   
+
 ![Alt text](GameERS.png)
 
